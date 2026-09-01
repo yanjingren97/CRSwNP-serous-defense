@@ -1,0 +1,7 @@
+"comparison","celltype","genes","rho","p","strong","same_direction_rate","comparison_label"
+"polyp_transition_cross_study","Basal",18486,0.082839261254237,1.61545526315551e-29,2854,0.600560616678346,"Polyp transition across studies"
+"paired_polyp_transition_vs_ethmoid_disease","Basal",15107,-0.492810850713429,0,NA,NA,"Paired transition vs disease effect"
+"polyp_transition_cross_study","Secretory",18486,0.308724447005672,0,4375,0.808,"Polyp transition across studies"
+"paired_polyp_transition_vs_ethmoid_disease","Secretory",14966,-0.430093112248766,0,NA,NA,"Paired transition vs disease effect"
+"polyp_transition_cross_study","Goblet",18486,0.0738619544871368,8.68197087343883e-24,2765,0.605786618444846,"Polyp transition across studies"
+"paired_polyp_transition_vs_ethmoid_disease","Goblet",15451,-0.447519376623613,0,NA,NA,"Paired transition vs disease effect"

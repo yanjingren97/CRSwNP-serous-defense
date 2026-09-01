@@ -1,0 +1,7 @@
+dataset,modality,analysis_role,repository,raw_data_redistributed,notes
+GSE235711,single-cell RNA-seq,paired discovery cohort,GEO,no,Paired polyp-ethmoid design where donor identifiers were available
+GSE276503,single-cell RNA-seq,external multi-site single-cell cohort,GEO,no,Biopsy-level units used where participant identifiers were unavailable
+GSE36830,bulk transcriptomics,external bulk validation cohort,GEO,no,Locked module evaluated without refitting
+GSE136825,bulk transcriptomics,external bulk validation and paired sensitivity cohort,GEO,no,Includes title-derived paired polyp-inferior-turbinate subset
+GSE235714,GeoMx spatial transcriptomics,exploratory boundary audit,GEO,no,Only 4 of 40 locked genes measured
+PXD013330,nasal-secretion proteomics,exploratory boundary audit,ProteomeXchange,no,Technical pooled columns; descriptive analysis only

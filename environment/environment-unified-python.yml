@@ -1,0 +1,21 @@
+name: crswnp-serous-repro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.13
+  - pip
+  - pip:
+      - anndata==0.12.2
+      - h5py==3.16.0
+      - harmonypy==0.0.10
+      - matplotlib==3.11.1
+      - networkx==3.5
+      - numpy==2.4.6
+      - pandas==3.0.5
+      - scikit-learn==1.7.1
+      - scipy==1.15.3
+      - seaborn==0.13.2
+      - statsmodels==0.14.5
+      - adjustText==1.4.0
+      - pyarrow==21.0.0
+      - zarr==3.3.0

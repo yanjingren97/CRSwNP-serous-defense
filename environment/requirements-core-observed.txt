@@ -1,0 +1,19 @@
+# Historical core/classification environment audit.
+# This is intentionally labelled "observed" rather than a complete pip freeze:
+# the original environment did not retain full distribution metadata.
+contourpy==1.3.3
+cycler==0.12.1
+fonttools==4.63.0
+kiwisolver==1.5.1
+matplotlib==3.11.1
+numpy==2.5.2
+packaging==26.3
+pillow==12.3.0
+pyparsing==3.3.2
+python-dateutil==2.9.0.post0
+scipy==1.18.1
+six==1.17.0
+
+# pandas was imported by the historical scripts but no pandas dist-info record
+# remains in the core vendor directory. Do not represent this file as a complete
+# historical lock file in the manuscript or repository.
