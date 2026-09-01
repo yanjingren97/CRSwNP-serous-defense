@@ -1,0 +1,42 @@
+# Raw and derived large data
+/data/raw/
+/data/derived/
+/data/resources/
+*.h5ad
+*.h5
+*.loom
+*.rds
+*.RData
+
+# Local dependency directories and caches
+pydeps/
+advanced_pydeps/
+__pycache__/
+*.py[cod]
+.Rhistory
+.RDataTmp
+.Rproj.user/
+.venv/
+venv/
+.conda/
+
+# Locally rendered figures and QA previews
+/deliverables/Figure1_article_style_clean/
+/deliverables/figure2_highimpact_v2/
+/deliverables/Figure2_final*/
+/deliverables/Figure3_corrected_A-F/
+/deliverables/figure3_intrinsic_v1/
+/deliverables/figure3_intrinsic_v4_editorial/
+/deliverables/Figure4_final*/
+/deliverables/Figure5_final*/
+/deliverables/Figure6_final*/
+/deliverables/Figure6_matched*/
+/deliverables/Figure7_highimpact*/
+
+# Temporary build products
+/supplementary/build/
+/supplementary/figures/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
