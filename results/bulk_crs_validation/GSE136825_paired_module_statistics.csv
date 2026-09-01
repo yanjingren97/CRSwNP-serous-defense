@@ -1,0 +1,2 @@
+"dataset","contrast","pairing_rule","n_pairs","n_lower_in_polyp","proportion_lower_in_polyp","median_polyp_score","median_inferior_turbinate_score","median_paired_difference_polyp_minus_it","wilcoxon_signed_rank_statistic_V","wilcoxon_exact_two_sided_p","wilcoxon_method"
+"GSE136825","CRSwNP polyp minus matched CRSwNP inferior turbinate","PY-SCP and TT-SCT title-prefix pairs with matching numeric identifier",30,26,0.866666666666667,-0.5731265784754,0.38578069000063,-0.665625559655211,39,1.39661133289337e-05,"Wilcoxon signed rank exact test"

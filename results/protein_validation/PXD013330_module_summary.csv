@@ -1,0 +1,2 @@
+dataset,module_genes_detected_any,module_genes_complete_9_samples,n_CRSwNP,n_CON,median_CRSwNP,median_CON,median_difference,mannwhitney_exact_p,genes_complete
+PXD013330_DDA,11,7,3,3,-0.02088146750287637,-0.5169657230391587,0.49608425553628227,0.1,HP;DMBT1;AZGP1;CA2;TCN1;RNASE1;F5

@@ -1,0 +1,25 @@
+sample,title,source,group,score
+GSM902680,Control UT-1,Uncinate tissue from control subject,Healthy_UT,0.7060572894007077
+GSM902681,Control UT-2,Uncinate tissue from control subject,Healthy_UT,0.4086833253410007
+GSM902682,Control UT-3,Uncinate tissue from control subject,Healthy_UT,0.2566308406829715
+GSM902683,Control UT-4,Uncinate tissue from control subject,Healthy_UT,0.302371177413013
+GSM902684,Control UT-5,Uncinate tissue from control subject,Healthy_UT,-0.08125981108687552
+GSM902685,Control UT-6,Uncinate tissue from control subject,Healthy_UT,0.24655638941953872
+GSM902686,CRSsNP UT-1,Uncinate tissue from patient with CRSsNP,CRSsNP_UT,-0.2548481314051745
+GSM902687,CRSsNP UT-2,Uncinate tissue from patient with CRSsNP,CRSsNP_UT,-0.008922812228031946
+GSM902688,CRSsNP UT-3,Uncinate tissue from patient with CRSsNP,CRSsNP_UT,1.1188663148865008
+GSM902689,CRSsNP UT-4,Uncinate tissue from patient with CRSsNP,CRSsNP_UT,0.06771101771472712
+GSM902690,CRSsNP UT-5,Uncinate tissue from patient with CRSsNP,CRSsNP_UT,0.8322121377549188
+GSM902691,CRSsNP UT-6,Uncinate tissue from patient with CRSsNP,CRSsNP_UT,-0.6571095954614145
+GSM902692,CRSwNP UT-1,Uncinate tissue from patient with CRSwNP,CRSwNP_UT,0.9669170042073008
+GSM902693,CRSwNP UT-2,Uncinate tissue from patient with CRSwNP,CRSwNP_UT,-0.2359287273847525
+GSM902694,CRSwNP UT-3,Uncinate tissue from patient with CRSwNP,CRSwNP_UT,0.509291567800004
+GSM902695,CRSwNP UT-4,Uncinate tissue from patient with CRSwNP,CRSwNP_UT,0.700801804226482
+GSM902696,CRSwNP UT-5,Uncinate tissue from patient with CRSwNP,CRSwNP_UT,-0.4474648412986422
+GSM902697,CRSwNP UT-6,Uncinate tissue from patient with CRSwNP,CRSwNP_UT,0.2976800364945376
+GSM902698,CRSwNP polyp-1,Nasal polyp tissue from patient with CRSwNP,CRSwNP_NP,-1.0362922007193367
+GSM902699,CRSwNP polyp-2,Nasal polyp tissue from patient with CRSwNP,CRSwNP_NP,-0.677715943237593
+GSM902700,CRSwNP polyp-3,Nasal polyp tissue from patient with CRSwNP,CRSwNP_NP,0.08105347308221483
+GSM902701,CRSwNP polyp-4,Nasal polyp tissue from patient with CRSwNP,CRSwNP_NP,-1.1282806397698133
+GSM902702,CRSwNP polyp-5,Nasal polyp tissue from patient with CRSwNP,CRSwNP_NP,-0.7930234716480474
+GSM902703,CRSwNP polyp-6,Nasal polyp tissue from patient with CRSwNP,CRSwNP_NP,-1.173986204184236

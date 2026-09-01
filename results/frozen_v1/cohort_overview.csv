@@ -1,0 +1,11 @@
+dataset,disease,tissue,libraries_total,libraries_included,donors,secretory_candidates,classified_secretory
+GSE235711,CRSsNP,Ethmoid,5,5,5,61502,61495
+GSE235711,CRSwNP,Ethmoid,4,4,4,9716,9716
+GSE235711,CRSwNP,Nasal_polyp,6,6,6,52766,52766
+GSE235711,Healthy,Ethmoid,5,5,5,40992,40978
+GSE261706,AR,Inferior_turbinate,4,4,2,99372,99372
+GSE261706,Healthy,Inferior_turbinate,4,4,2,86800,86800
+GSE276503,CRSwNP,Inferior_turbinate,9,6,9,97216,97216
+GSE276503,CRSwNP,Middle_turbinate,7,6,7,85057,85050
+GSE276503,CRSwNP,Nasal_polyp,15,15,15,210567,210350
+GSE276503,Healthy,Inferior_turbinate,2,2,2,41657,41657
